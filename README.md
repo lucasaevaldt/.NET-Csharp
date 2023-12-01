@@ -1,2 +1,2 @@
-# .NET|C#
+# .NET | C#
 :metal: Learning .NET | C#
